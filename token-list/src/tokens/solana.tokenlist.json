@@ -1,0 +1,18 @@
+{
+  "tokens": [
+    {
+      "address": "CAQj9DUSJ2Tijc3EM5QTsfXDL4otBFN3wcbV8pkEtc2Z",
+      "chainId": 101,
+      "decimals": 0,
+      "extensions": {
+        "website": "https://sergios.io"
+      },
+      "logoURI": "https://raw.githubusercontent.com/machinedramon/token-list/main/assets/mainnet/CAQj9DUSJ2Tijc3EM5QTsfXDL4otBFN3wcbV8pkEtc2Z/logo.png",
+      "name": "Sergios",
+      "symbol": "SERGIOS",
+      "tags": [
+        "social-token"
+      ]
+    }
+  ]
+}
